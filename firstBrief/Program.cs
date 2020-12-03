@@ -43,7 +43,7 @@ namespace firstBrief
             }
             
             // II-2
-            for (int i = 1; i < 10; i++)
+            for (float i = 1; i < 10; i++)
             {
                 Console.WriteLine(i);
                 i += i / 2;
