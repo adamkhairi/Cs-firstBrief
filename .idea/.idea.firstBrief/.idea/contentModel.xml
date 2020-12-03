@@ -6,7 +6,9 @@
     <e p="C:\Users\aD\RiderProjects\firstBrief" t="IncludeFlat">
       <e p="firstBrief" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Collections.cs" t="Include" />
         <e p="firstBrief.csproj" t="IncludeRecursive" />
+        <e p="Loops.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net472" t="Include">
@@ -15,6 +17,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Tva.cs" t="Include" />
       </e>
       <e p="firstBrief.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

@@ -8,7 +8,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf0bff2-eabe-407d-81ec-ae975538d841" name="Default Changelist" comment="" />
+    <list default="true" id="ccf0bff2-eabe-407d-81ec-ae975538d841" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firstBrief/Collections.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstBrief/Loops.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstBrief/Tva.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.firstBrief/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.firstBrief/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.firstBrief/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.firstBrief/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstBrief/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/firstBrief/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/aD/RiderProjects/firstBrief/firstBrief/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -24,6 +34,9 @@
         <option value="$PROJECT_DIR$/firstBrief/dd.cs" />
         <option value="$PROJECT_DIR$/firstBrief/xx.cs" />
         <option value="$PROJECT_DIR$/firstBrief/boucles.cs" />
+        <option value="$PROJECT_DIR$/firstBrief/Tva.cs" />
+        <option value="$PROJECT_DIR$/firstBrief/Collections.cs" />
+        <option value="$PROJECT_DIR$/firstBrief/Loops.cs" />
         <option value="$PROJECT_DIR$/firstBrief/Program.cs" />
       </list>
     </option>
@@ -35,12 +48,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498452" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3003096" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Static Method.firstBrief.Program.boucles">
+  <component name="RunManager" selected=".NET Project.firstBrief">
     <configuration name="firstBrief" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -92,6 +107,7 @@
       <workItem from="1606809312263" duration="2162000" />
       <workItem from="1606811546330" duration="1163000" />
       <workItem from="1606813301693" duration="8901000" />
+      <workItem from="1606982800342" duration="10195000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1606826963350</created>
@@ -100,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606826963350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ss">
+      <created>1606982849737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606982849737</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,25 +146,90 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1082" height="257" key="GridCell.Tab.0.bottom" timestamp="1606827851902">
+    <state width="1000" height="370" key="GridCell.Tab.0.bottom" timestamp="1607005846003">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1082" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606827851902" />
-    <state width="1082" height="257" key="GridCell.Tab.0.center" timestamp="1606827851902">
+    <state width="1000" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846003" />
+    <state width="1000" height="370" key="GridCell.Tab.0.center" timestamp="1607005846003">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1082" height="257" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606827851902" />
-    <state width="1082" height="257" key="GridCell.Tab.0.left" timestamp="1606827851902">
+    <state width="1000" height="370" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846003" />
+    <state width="1000" height="370" key="GridCell.Tab.0.left" timestamp="1607005846003">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1082" height="257" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606827851902" />
-    <state width="1082" height="257" key="GridCell.Tab.0.right" timestamp="1606827851902">
+    <state width="1000" height="370" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846003" />
+    <state width="1000" height="370" key="GridCell.Tab.0.right" timestamp="1607005846003">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1082" height="257" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606827851902" />
+    <state width="1000" height="370" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846003" />
+    <state width="1000" height="370" key="GridCell.Tab.1.bottom" timestamp="1607005846242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846242" />
+    <state width="1000" height="370" key="GridCell.Tab.1.center" timestamp="1607005846242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846242" />
+    <state width="1000" height="370" key="GridCell.Tab.1.left" timestamp="1607005846241">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846241" />
+    <state width="1000" height="370" key="GridCell.Tab.1.right" timestamp="1607005846242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607005846242" />
+    <state width="1000" height="370" key="GridCell.Tab.2.bottom" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.2.center" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.2.left" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.2.right" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.3.bottom" timestamp="1607005845778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845778" />
+    <state width="1000" height="370" key="GridCell.Tab.3.center" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.3.left" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.3.right" timestamp="1607005845777">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845777" />
+    <state width="1000" height="370" key="GridCell.Tab.4.bottom" timestamp="1607005845778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845778" />
+    <state width="1000" height="370" key="GridCell.Tab.4.center" timestamp="1607005845778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845778" />
+    <state width="1000" height="370" key="GridCell.Tab.4.left" timestamp="1607005845778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845778" />
+    <state width="1000" height="370" key="GridCell.Tab.4.right" timestamp="1607005845778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1000" height="370" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607005845778" />
     <state x="948" y="257" key="Rider.ProjectTemplateDialog.Size" timestamp="1606826423401">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -150,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="762" y="161" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1606813197384" />
-    <state x="948" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606827356852">
+    <state x="948" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606982875491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="948" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606827356852" />
+    <state x="948" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606982875491" />
     <state x="1173" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606826998407">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -162,5 +250,24 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1019" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606824398370" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/firstBrief/Loops.cs</url>
+          <line>9</line>
+          <properties documentPath="C:\Users\aD\RiderProjects\firstBrief\firstBrief\Loops.cs" initialLine="9">
+            <startOffsets>
+              <option value="146" />
+            </startOffsets>
+            <endOffsets>
+              <option value="196" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
